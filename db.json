@@ -1,18 +1,16 @@
-{
-  "users": [
-  {
-    "id": 1,
-    "name": "Hiren Fumakiya",
-    "username": "Hiren_f",
-    "email": "hiren_f@raindropsinfotech.com",
-    "phone": "7845125623"
-  },
-  {
-    "id": 2,
-    "name": "jignesh shingadiya",
-    "username": "jignesh_s",
-    "email": "jignesh_s@raindropsinfotech.com",
-    "phone": "78945623"
-  }
+[
+    {
+      "id": 1,
+      "name": "Hiren Fumakiya",
+      "username": "Hiren_f",
+      "email": "hiren_f@raindropsinfotech.com",
+      "phone": "7845125623"
+    },
+    {
+      "id": 2,
+      "name": "jignesh shingadiya",
+      "username": "jignesh_s",
+      "email": "jignesh_s@raindropsinfotech.com",
+      "phone": "78945623"
+    }
 ]
-}
